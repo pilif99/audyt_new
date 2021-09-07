@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "audyt_new", "audyt_new\audyt_new.pyproj", "{7758F569-135D-4EBD-BC9E-E64B63C7AB7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7758F569-135D-4EBD-BC9E-E64B63C7AB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7758F569-135D-4EBD-BC9E-E64B63C7AB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF581CD9-566D-4DDF-880E-D8D3C3D09E0F}
+	EndGlobalSection
+EndGlobal
