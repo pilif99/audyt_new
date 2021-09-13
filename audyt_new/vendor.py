@@ -12,7 +12,7 @@ class Vendor(pd.DataFrame):
 
     def zamien_na_self(self):
 
-        list_of_files = glob.glob(r"C:\Users\FLorenzLen\Downloads\*") # * means all if need specific format then *.csv
+        list_of_files = glob.glob("*") # * means all if need specific format then *.csv
         latest_file = max(list_of_files, key=os.path.getctime)
 
         df = pd.read_excel(latest_file, skiprows = 1)
